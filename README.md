@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center"><b>Spooky Public Bot</b></h1>
+<h1 align="center"><b>mw yt bot</b></h1>
 
-![logo](https://telegra.ph/file/8d6150fac7f5e1341b02a.jpg)
+![logo](https://telegra.ph/file/01edc662e0ea7022b0e17.jpg)
 <br>
 <p align="center">
-     Project Spooky public telegram youtube video downloader Bot
+     telegram youtube video downloader Bot
     <br><br>
-        <a href="https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE">Spooky Support</a>
+        <a href="whatsapp.com">Spooky Support</a>
     <br>
 </p>
 
@@ -15,7 +15,7 @@
 </p>
 
 # Available on Telegram As <br>
-<a href="https://t.me/spooky_video_bot"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
+<a href=">https://t.me/mwytbot<img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
 
 <br>
 
